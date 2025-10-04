@@ -38,7 +38,7 @@ public class CodeChadsAcademy {
             }
         }
         System.out.println("Mayor salto fue de "+mayorVariacion+" puntos entre la prueba "+(posicion+1)+" y la prueba "+(posicion+2));
-/* 
+
         //Pto3
         int mejorNota = puntajes[0];
         for (int i=1; i<puntajes.length ; i++ ){
@@ -64,7 +64,7 @@ public class CodeChadsAcademy {
             System.out.println("Chad");
         } else if (total>=450) {
             System.out.println("Stone Chad definitivo 💪");
-        }*/
+        }
     } 
         
 }
